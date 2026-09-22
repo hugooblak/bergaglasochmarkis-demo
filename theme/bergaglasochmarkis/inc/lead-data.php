@@ -18,7 +18,6 @@ return array(
 		array( 'Toppen bemötande och snabb service, det gillat jag. Proffsigt.', 'Misel Milivojevic', 'för 7 år sedan' ),
 		array( 'Löste mitt ärende snabbt och snyggt.', 'Peter Andersson', 'för 6 år sedan' ),
 	),
-	'bild_hero'      => 'foto-1.jpg',
-	'bilder'         => array( 'foto-2.jpg' ),
+	'bild_hero'      => 'foto-2.jpg',
 	'ar_riktig'      => true,
 );
