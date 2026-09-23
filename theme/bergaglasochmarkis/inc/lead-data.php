@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Berga glas och markis',
+	'bransch'        => 'Glasmästare',
 	'telefon'        => '08-540 207 57',
 	'telefon_tel'    => '+46854020757',
 	'ort'            => 'Åkersberga',
